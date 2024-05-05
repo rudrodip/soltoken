@@ -1,5 +1,7 @@
 # Sol token
 
+<img src="https://solanaprogramtoken.vercel.app/og.png" />
+
 This is a simple react project for understanding
 
 - how to create mint
