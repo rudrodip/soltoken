@@ -10,8 +10,8 @@ export const siteConfig: SiteConfig = {
     "React",
   ],
   author: "rds_agi",
-  siteUrl: "https://soltoken.vercel.app",
-  ogImage: "https://soltoken.vercel.app/og.png",
+  siteUrl: "https://solanaprogramtoken.vercel.app/",
+  ogImage: "https://solanaprogramtoken.vercel.app/og.png",
   links: {
     github: "https://github.com/rudrodip/soltoken",
     twitter: "https://twitter.com/rds_agi",
