@@ -78,7 +78,7 @@
 /* tailwind styles */
 
 .app {
-  @apply w-full max-w-7xl mx-auto flex flex-col items-center justify-center py-2;
+  @apply w-full max-w-3xl mx-auto flex flex-col items-center justify-center py-2;
 }
 
 .head-text {
